@@ -1,0 +1,68 @@
+/* My CSS starts here */
+h1 {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 200%;
+}
+
+h2 {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 150%;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 117%;
+}
+
+li {
+  font-family: 'Source Serif Pro', serif;
+  display: inline;
+  margin-right: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+}
+
+figcaption {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h5 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#wrapper {
+  width: 700px;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 10px auto 10px auto;
+  text-align: center;
+}
+
+#header {
+  text-transform: uppercase;
+  letter-spacing: 0.7em;
+  width: 600px;
+  padding: 10px;
+  border: 2px solid black;
+  margin: auto;
+  text-align: center;
+}
+
+#first {
+  width: 600px;
+  padding: 10px;
+  border: 2px solid black;
+  margin: auto;
+  text-align: center;
+}
